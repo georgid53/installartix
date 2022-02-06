@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Artix Installation Script (after partitioning the disks manually)
 
